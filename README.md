@@ -1,8 +1,8 @@
-<p align="center">
+<div style="background-color: #ffe6e6; border: 1px solid #ff4d4f; padding: 16px; border-radius: 6px; color: #a00000;">
   <strong style="font-size: 1.2em;">⚠️ This project is deprecated ⚠️</strong><br>
   This repository is no longer maintained. Please use <a href="[https://github.com/example/NewProject](https://github.com/PushBell/node-red-contrib-pushbell)">node-red-contrib-pushbell</a> instead.<br>
   No further updates or support will be provided in this repository. However, the project is still continued in the new repository.
-</p>
+</div>
 
 ![banner](img/Node-RED-Banner.png)
 
