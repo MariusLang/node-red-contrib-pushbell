@@ -1,3 +1,9 @@
+<p align="center">
+  <strong style="font-size: 1.2em;">⚠️ This project is deprecated ⚠️</strong><br>
+  This repository is no longer maintained. Please use <a href="[https://github.com/example/NewProject](https://github.com/PushBell/node-red-contrib-pushbell)">node-red-contrib-pushbell</a> instead.<br>
+  No further updates or support will be provided in this repository. However, the project is still continued in the new repository.
+</p>
+
 ![banner](img/Node-RED-Banner.png)
 
 # Node RED PushBell Node
